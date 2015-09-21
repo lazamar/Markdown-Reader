@@ -1,7 +1,9 @@
 # Desktop Markdown Reader
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) *Not working yet!*
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 Open `.md` files offline without any problem.
+
+Just go to File>Open and choose your Markdown file.
 
 ## Acknowledgements
 
