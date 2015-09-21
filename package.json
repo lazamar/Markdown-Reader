@@ -1,0 +1,11 @@
+{
+  "name": "markdown-reader",
+  "version": "0.1.0",
+  "description": "A desktop Markdown reader.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Lazaroni <lazaroni.marcelo@gmail.com>",
+  "license": "MIT"
+}
