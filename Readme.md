@@ -16,10 +16,9 @@ Run:
 git clone https://github.com/lazaronijunior/Markdown-Reader.git
 cd Markdown\ Reader
 npm install electron-prebuilt -g
-npm start
 ```
 
-Then start Markdown Reader with
+Then start Markdown Reader with `npm start`
 
 ## Acknowledgements
 
