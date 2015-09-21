@@ -1,5 +1,7 @@
 # Desktop Markdown Reader
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) *Not working yet!*
 
+Open `.md` files offline without any problem.
 
 ## Acknowledgements
 
