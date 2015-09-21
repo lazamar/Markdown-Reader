@@ -5,6 +5,22 @@ Open `.md` files offline without any problem.
 
 Just go to File>Open and choose your Markdown file.
 
+## Executing
+
+For now it requires [Electron](http://electron.atom.io/).
+
+Run:
+
+
+```javascript
+git clone https://github.com/lazaronijunior/Markdown-Reader.git
+cd Markdown\ Reader
+npm install electron-prebuilt -g
+npm start
+```
+
+Then start Markdown Reader with
+
 ## Acknowledgements
 
 Themes from

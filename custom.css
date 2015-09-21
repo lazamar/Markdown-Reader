@@ -10,9 +10,9 @@
   background-color: white;
   box-sizing: border-box;
   box-shadow: 10px 0px 10px 0px rgba(0,0,0,0.5);
-  height: 40px;
+  min-height: 40px;
   color: #333;
 }
 #md-body{
-  margin-top: 45px;
+  margin-top: 50px;
 }
